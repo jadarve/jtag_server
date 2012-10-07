@@ -1,0 +1,6 @@
+JTAG SERVER FOR ALTERA FPGA DESIGNS
+
+Directory structure
+
+	./src: Python scripts for the client side of the application
+	./srv: server script to be executed using quartus_stp
